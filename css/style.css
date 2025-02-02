@@ -206,7 +206,7 @@ footer{
 }
 
 /*Media Queries */
-@media(max-width: 768px){
+@media(max-width: 768px ){
     header #branding,
     header nav,
     header nav li,
@@ -225,6 +225,7 @@ footer{
 
     #showcase h1{
         margin-top: 40px;
+        font-size: 50px;
     }
 
     #newsletter button, .quote button{
